@@ -1,4 +1,4 @@
 # fast-university
-##they are specialize in computer sciences and related technology
+## they are specialize in computer sciences and related technology
 <br>
-###i am studying artificial intelligence at fast
+### i am studying artificial intelligence at fast
